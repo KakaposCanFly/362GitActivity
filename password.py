@@ -13,3 +13,5 @@ while(1):
         break
     except:
         print("Invalid input")
+
+generatePassword(num)
