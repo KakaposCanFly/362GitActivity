@@ -1,4 +1,5 @@
 def divisor(a):
-    pass
+    for i in range(1, a + 1):
+
 
 divisor(100)
